@@ -40,11 +40,8 @@ section {
 html, body {
         width: 50vw;
         height: 100vh;
-        background-color: #233eff;   
-        
-        
-        font:20px Arial, Helvetica, sans-serif;   
-        margin:0px 0px 0px 0px;
+        background-color: #233eff;           
+        font:20px Arial, Helvetica, sans-serif;          
         background-image:url(../imagens/cev-landscape.jpg);
         background-attachment:fixed;
         border-image-repeat:no-repeat; 
@@ -59,5 +56,5 @@ section {
       width: 250px;
       height: 800px;
       margin-top: 10px;
-      margin-left: 50px;   
+      margin-left: 20px;   
 }
