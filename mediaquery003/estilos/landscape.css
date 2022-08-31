@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*Configuração Landscape*/
+
+* {
+    margin: 0px;
+    padding:  0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #233eff;   
+    width:180px;
+    height: 300px;  
+    font:20px Arial, Helvetica, sans-serif;   
+    margin:0px 0px 0px 0px;
+    background-image:url(../imagens/cev-landscape.jpg);
+    background-attachment:fixed;
+    border-image-repeat:no-repeat;
+    cursor:default}
+
+h1 {
+    color: #091780;
+    text-shadow: 2px 2px 0px #a71515;
+}
+
+section {
+    width: 600px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 150px;
+   
+}
+    
