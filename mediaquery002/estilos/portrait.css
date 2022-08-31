@@ -38,11 +38,11 @@ section {
 }
 
 html, body {
-        width: 100vw;
+        width: 50vw;
         height: 100vh;
         background-color: #233eff;   
-        width:180px;
-        height: 500px;  
+        
+        
         font:20px Arial, Helvetica, sans-serif;   
         margin:0px 0px 0px 0px;
         background-image:url(../imagens/cev-landscape.jpg);
